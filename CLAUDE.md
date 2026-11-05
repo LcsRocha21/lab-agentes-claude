@@ -25,3 +25,7 @@ Soluções implantadas, processos automatizados, catálogo de ferramentas e meno
 - Nunca gravar senhas, chaves ou tokens em arquivos.
 - Pedir confirmação antes de ações com efeito externo (enviar e-mail, apagar, alterar sistemas).
 - Nunca alterar arquivos originais de dados; trabalhar em cópias.
+
+## Registro de sessões
+Ao concluir cada tarefa, atualize o arquivo `registro-de-sessoes.md` com uma
+entrada curta: data, o que foi pedido, decisões tomadas e pendências.
